@@ -24,10 +24,10 @@ complete_sound = pygame.mixer.Sound(complete)
 end_sound = pygame.mixer.Sound(end)
 
 # Initialize API clients
-api_key_youtube = 'AIzaSyD1HbFdoJmfEdocWYohsDqfqEB_hSE8SYg'
+api_key_youtube = 'YOUR-API-KEY-HERE'
 youtube = build('youtube', 'v3', developerKey=api_key_youtube)
 
-gemini_api_key = 'AIzaSyAqWrWlVWBRGR85Dts2Q4SQpFFGpTq2gqI'
+gemini_api_key = 'YOUR-API-KEY-HERE'
 genai.configure(api_key=gemini_api_key)
 
 # Lazy loading models
