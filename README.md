@@ -17,23 +17,23 @@
 
 # Installation
 
-**Clone the Repository:**
+**1. Clone the Repository:**
 
 git clone https://github.com/memonriyaz/IronHeart.git
 
 cd IronHeart
 
-**Set Up a Virtual Environment**:
+**2. Set Up a Virtual Environment**:
 
 python -m venv env
 
 source env/bin/activate  # On Windows use: env\Scripts\activate
 
-**Install Dependencies:**
+**3. Install Dependencies:**
 
 pip install -r requirements.txt
 
-**Set Up API Keys**
+**4. Set Up API Keys**
 
 Replace the placeholder API keys in main.py with your own Google API keys:
 
