@@ -13,7 +13,7 @@
 
 **YouTube Search**: Searches and plays videos from YouTube.
 
-**AI Responses**: Generates and summarizes responses using the Google Gemini API and Hugging Face transformers.
+**AI Responses**: Generates and summarizes responses using the Google Gemini.
 
 # Installation
 
