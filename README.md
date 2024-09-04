@@ -1,4 +1,4 @@
-#IronHeart
+# IronHeart
 
 **IronHeart is a Python-based voice assistant designed to simplify your daily tasks through voice commands. It utilizes advanced technologies for speech recognition, text-to-speech, and AI-driven responses to enhance user interaction.**
 
@@ -15,7 +15,7 @@
 
 **AI Responses**: Generates and summarizes responses using the Google Gemini API and Hugging Face transformers.
 
-#Installation
+# Installation
 
 **Clone the Repository**
 
@@ -41,7 +41,7 @@ gemini_api_key = 'YOUR_GOOGLE_GEMINI_API_KEY'
 
 api_key_youtube = 'YOUR_YOUTUBE_API_KEY'
 
-#Usage
+# Usage
 
 Run the Assistant
 
