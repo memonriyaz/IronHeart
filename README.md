@@ -17,23 +17,23 @@
 
 # Installation
 
-**Clone the Repository**
+**Clone the Repository:**
 
 git clone https://github.com/memonriyaz/IronHeart.git
 
 cd IronHeart
 
-Set Up a Virtual Environment
+**Set Up a Virtual Environment**:
 
 python -m venv env
 
 source env/bin/activate  # On Windows use: env\Scripts\activate
 
-Install Dependencies
+**Install Dependencies:**
 
 pip install -r requirements.txt
 
-Set Up API Keys
+**Set Up API Keys**
 
 Replace the placeholder API keys in main.py with your own Google API keys:
 
@@ -43,7 +43,7 @@ api_key_youtube = 'YOUR_YOUTUBE_API_KEY'
 
 # Usage
 
-Run the Assistant
+**Run the Assistant**
 
 Start the voice assistant:
 
